@@ -3,7 +3,6 @@ from email import message
 from email.policy import default
 from itertools import product
 from time import timezone
-from tkinter import CASCADE
 from django.db import models
 
 from django.utils import timezone  #for timee
